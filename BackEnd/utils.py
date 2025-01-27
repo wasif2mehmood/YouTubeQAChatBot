@@ -47,7 +47,8 @@ def generate(state: MessagesState, llm):
 
     docs_content = "\n\n".join(doc.content for doc in tool_messages)
     system_message_content = (
-        "You are an assistant for question-answering tasks. "
+        "You are an assistant for question-answering tasks for youtube videos."
+        "You have been provided with a context retrieved from transcript of a youtube video"
         "Use the following pieces of retrieved context to answer "
         "the question. If you don't know the answer, say that you "
         "don't know. Use three sentences maximum and keep the "
