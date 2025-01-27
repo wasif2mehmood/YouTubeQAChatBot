@@ -20,7 +20,7 @@ Make sure you have the following installed on your system:
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/YourUsername/YouTubeQAChatBot.git
+    git clone [https://github.com/YourUsername/YouTubeQAChatBot.git](https://github.com/wasif2mehmood/YouTubeQAChatBot.git)
     cd YouTubeQAChatBot
     ```
 
