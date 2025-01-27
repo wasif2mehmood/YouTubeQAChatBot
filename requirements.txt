@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+lark
+langchain-chroma
+youtube-transcript-api
+langchain_openai
+langchain-community
+langgraph
+langsmith
+pytube
+streamlit
+requests
