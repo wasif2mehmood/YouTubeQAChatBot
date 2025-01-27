@@ -34,7 +34,7 @@ Make sure you have the following installed on your system:
 
 #### Backend
 
-1. Navigate to the [BackEnd](http://_vscodecontentref_/1) directory:
+1. Navigate to the BackEnd directory:
 
     ```sh
     cd BackEnd
@@ -48,7 +48,7 @@ Make sure you have the following installed on your system:
 
 #### Frontend
 
-1. Open a new terminal and navigate to the [FrontEnd](http://_vscodecontentref_/2) directory:
+1. Open a new terminal and navigate to the FrontEnd directory:
 
     ```sh
     cd FrontEnd
