@@ -20,7 +20,7 @@ Make sure you have the following installed on your system:
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/YourUsername/YouTubeQAChatBot.git
+    git clone https://github.com/wasif2mehmood/YouTubeQAChatBot.git
     cd YouTubeQAChatBot
     ```
 
@@ -66,7 +66,3 @@ Make sure you have the following installed on your system:
 2. Enter your OpenAI API key and the YouTube video URL to load the transcript.
 3. Interact with the chatbot by typing your queries in the input field.
 4. Use the "Watch in Video" button to view the particular part of the video related to the question asked.
-
-## License
-
-This project is licensed under the MIT License.
